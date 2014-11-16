@@ -13,6 +13,8 @@ It works in Google App Engine or with the GAE SDK in localhost. Just install GAE
 To upload it to GAE change the app name in app.yaml.
 
 ##Demo
+
+You need a WebCam for this.
 A working demo of WebRTC is available on appengine - https://rtctestapp.appspot.com
 
 ##More Info
