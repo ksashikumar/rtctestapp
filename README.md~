@@ -13,7 +13,7 @@ It works in Google App Engine or with the GAE SDK in localhost. Just install GAE
 To upload it to GAE change the app name in app.yaml.
 
 ##Demo
-A working demo of WebRTC is available on appengine - https://rtctestapp.appspot.com
+A working demo of WebRTC is available on appengine - https://apprtc.appspot.com
 
 ##More Info
 
